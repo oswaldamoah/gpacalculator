@@ -1,0 +1,6 @@
+This is the first instance of the program.
+It looks lengthy
+The next update is going to ask for number of each grade a student has for each and calculate the gpa
+
+How many As 
+How many B+s, etc.

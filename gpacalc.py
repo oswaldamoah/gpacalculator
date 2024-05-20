@@ -1,3 +1,6 @@
+
+
+
 grades = ["A", "B+", "B", "C+", "C", "D+", "D", "E", "F"]  # Valid grades (uppercase) for error handling
 
 def calculate_grade_sum(calculation_dict, inputted_grades):
@@ -9,8 +12,7 @@ def calculate_grade_sum(calculation_dict, inputted_grades):
   Returns:
       The total sum of grade values based on the input grades.
 
-  Raises:
-      ValueError: If an invalid grade is encountered.
+  This sum is used to derive the gpa by dividing by ideal sum and multiplying by 4
   """
 
   total_sum = 0
